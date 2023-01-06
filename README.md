@@ -59,6 +59,13 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+###server-side output :
+![serverside](https://user-images.githubusercontent.com/119288183/211008864-0742fedd-4de9-4d9a-9874-9ad27d355f75.png)
+
+### client side output:
+![Screenshot from 2023-01-06 17-29-57](https://user-images.githubusercontent.com/119288183/211009010-100aff8e-2258-4666-99b8-8f681fbed24c.png)
+
+
 
 
 ## RESULT:
